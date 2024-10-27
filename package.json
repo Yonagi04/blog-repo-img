@@ -1,6 +1,6 @@
 {
   "name": "yonagi-blog-repo-img",
-  "version": "1.1.29",
+  "version": "1.1.30",
   "description": "静态资源仓库",
   "main": "index.js",
   "scripts": {
